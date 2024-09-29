@@ -7,4 +7,6 @@ This was the output of my frustrations trying to find a consolidated place to ex
 - [eclipsesource.com](https://eclipsesource.com/tutorial-downloads/Eclipse_4_Tutorial.pdf)
 - [eclipse-tycho](https://github.com/eclipse-tycho/tycho/tree/main)
 
-My goal is to create the resource I want to have as I progress on this journey to learn Eclipse 4. Good luck to all who attempt to follow! :)
+My goal is to create the resource I want to have as I progress on this journey to learn Eclipse 4. Good luck to all who attempt to follow! 🙂
+
+Before getting started, I **highly** suggest reading the excellent [Getting Started with Eclipse RCP](https://www.vogella.com/tutorials/EclipseRCP/article.html) to get a basic overview of the overall Eclipse programming model as well as getting your development environment setup.
