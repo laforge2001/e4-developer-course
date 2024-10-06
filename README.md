@@ -10,3 +10,13 @@ This was the output of my frustrations trying to find a consolidated place to ex
 My goal is to create the resource I want to have as I progress on this journey to learn Eclipse 4. Good luck to all who attempt to follow! 🙂
 
 Before getting started, I **highly** suggest reading the excellent [Getting Started with Eclipse RCP](https://www.vogella.com/tutorials/EclipseRCP/article.html) to get a basic overview of the overall Eclipse programming model as well as getting your development environment setup.
+
+So, what I will attempt is to take you through creating an Eclipse RCP based example application called "OpenNote" based on the open-source note application called (KeepNote)[https://keepnote.org/]. 
+
+ - Creating the initial layout/structure
+ - Connecting code to parts
+ - Contributing new views via plugins
+ - Target platform
+ - Headless build with Eclipse Tycho
+ - Deployment
+ - Updating
